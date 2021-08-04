@@ -1,0 +1,12 @@
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\bin\Debug\VacationRental_HW.exe.config
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\bin\Debug\VacationRental_HW.exe
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\bin\Debug\VacationRental_HW.pdb
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\bin\Debug\VacationRental_HW.xml
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.vbprojAssemblyReference.cache
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.Form1.resources
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.Resources.resources
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.vbproj.GenerateResource.cache
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.vbproj.CoreCompileInputs.cache
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.exe
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.xml
+C:\Users\HABSA2\source\repos\VacancyRental_HW\VacancyRental_HW\obj\Debug\VacationRental_HW.pdb
